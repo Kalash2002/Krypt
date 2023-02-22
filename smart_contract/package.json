@@ -10,15 +10,26 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+<<<<<<< HEAD
     "@nomiclabs/hardhat-ethers": "^2.2.2",
     "@nomiclabs/hardhat-waffle": "^2.0.5",
     "chai": "^4.3.7",
     "ethereum-waffle": "^4.0.10",
+=======
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "chai": "^4.3.7",
+    "ethereum-waffle": "^4.0.9",
+>>>>>>> 38597e892e81a05992854396d8a370b3b6175fbc
     "ethers": "^5.7.2",
     "hardhat": "^2.12.7"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+=======
+>>>>>>> 38597e892e81a05992854396d8a370b3b6175fbc
     "alchemy-sdk": "^2.4.3"
   }
 }
