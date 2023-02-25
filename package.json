@@ -2,6 +2,9 @@
   "dependencies": {
     "@metamask/detect-provider": "^2.0.0",
     "ethers": "^5.7.2",
+    "i": "^0.3.7",
+    "npm": "^9.5.1",
+    "or": "^0.2.0",
     "web3modal": "^1.9.12",
     "y": "^0.3.2"
   },
